@@ -11,6 +11,8 @@ Motoren bruker blant annet:
 - Move ordering
 - Grafisk sjakkbrett for testing og visualisering
 
+#NB
+Kun legacy driver fungerer optimalt i dette versjonen.
 
 ## Demo
 ![Chess engine demo](sjakk.gif)
