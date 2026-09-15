@@ -12,9 +12,5 @@ Motoren bruker blant annet:
 - Grafisk sjakkbrett for testing og visualisering
 
 
-## Demo
-
-Legg gjerne inn et skjermbilde eller en GIF her:
-
-```markdown
-![Chess engine demo](assets/demo.gif)
+## Dem
+![Chess engine demo](sjakk.gif)
